@@ -1,0 +1,10 @@
+{
+    "priority": 5,
+    "request": {
+        "method": "GET",
+        "urlPattern": "/countries"
+    },
+    "response": {
+        "status": 503
+    }
+}
